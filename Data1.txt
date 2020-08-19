@@ -1,0 +1,8 @@
+Beef, Chicken, Milk
+Beef, Cheese, Door
+Cheese, Boots
+Beef, Chicken, Cheese, Door
+Beef, Chicken, Clothes, Cheese, Milk, Door
+Chicken, Clothes, Milk
+Chicken, Milk, Clothes
+
